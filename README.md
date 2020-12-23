@@ -1,8 +1,8 @@
-'Ello! I'm **Lyudmil**
+'Ello! I'm **Lyudmil**.
 
 **developer**, currently located in Sofia, **Bulgaria**. 
 
-For the past year I've been working on [managed placements](https://managedplacements.com) using **Eixir**, **AlpineJs** and **TailwindCSS**. I would love to contribute to open source, elixir based projects such as [papercups.io](https://github.com/papercups-io/) 
+For the past year I've been working on [managed placements](https://managedplacements.com) using **Eixir**, **AlpineJs** and **TailwindCSS**. I would love to contribute to open source, elixir based projects such as [papercups.io](https://github.com/papercups-io/)!
 
 When not on my computer I spend my time doing *"extreme sports"*.
 
